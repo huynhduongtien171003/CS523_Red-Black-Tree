@@ -31,7 +31,7 @@
 | STT    | MSSV          | Họ và Tên              | Github                                                         | Email                   |
 | ------ |:-------------:| ----------------------:|---------------------------------------------------------------:|-------------------------:
 | 1      | 22521465      | Huỳnh Dương Tiến       |[huynhduongtien171003](https://github.com/huynhduongtien171003) |22521465@gm.uit.edu.vn   |
-| 2      | 23520361      | Đặng Vân Duy           |[DuyDanga](https://github.com/DuyDanga)                         |22520970@gm.uit.edu.vn   |
+| 2      | 23520361      | Đặng Vân Duy           |[DuyDanga](https://github.com/DuyDanga)                         |23520361@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC: Cây đỏ đen (Red-Black Tree)
 
