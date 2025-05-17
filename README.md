@@ -16,19 +16,16 @@
   - [Slide trình bày](#-slide-trình-bày)
   - [Demo Visualizer](#-demo-visualizer)
   - [Ứng dụng từ điển](#-ứng-dụng-từ-điển)
-  - [Cài đặt và sử dụng](#-cài-đặt-và-sử-dụng)
 
 ## 🏫 Giới thiệu môn học
 <a name="-giới-thiệu-môn-học"></a>
 * **Tên môn học**: Cấu trúc dữ liệu và giải thuật nâng cao  
 * **Mã môn học**: CS523  
 * **Lớp học**: CS523.P21  
-* **Mô tả**: Môn học tập trung vào các cấu trúc dữ liệu nâng cao và giải thuật tối ưu, đặc biệt là các cấu trúc cây cân bằng và ứng dụng thực tế.
 
 ## 👨‍🏫 Giảng viên hướng dẫn
 <a name="-giảng-viên-hướng-dẫn"></a>
 * **TS. Nguyễn Thanh Sơn**  
-* Bộ môn Khoa học Máy tính  
 * Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM
 
 ## 👥 Thành viên nhóm
