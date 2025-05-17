@@ -71,7 +71,7 @@ Nội dung chính:
 ## 📚 Ứng dụng Từ điển Anh-Việt sử dụng Red-Black Tree
 
 ### 🌟 Giới thiệu
-Ứng dụng từ điển minh họa khả năng ứng dụng thực tế của cấu trúc Red-Black Tree trong bài toán tìm kiếm từ vựng với tốc độ cao (O(log n)).
+Ứng dụng từ điển minh họa khả năng ứng dụng thực tế của cấu trúc Red-Black Tree trong bài toán tìm kiếm từ vựng  .
 
 ### 🎯 Tính năng chính
 - **Tra cứu từ**: Tìm kiếm từ với thuật toán tìm kiếm trên RBT
@@ -85,7 +85,7 @@ Nội dung chính:
 - **Gợi ý thông minh**: Gợi ý từ gần đúng khi nhập
 
 ### 🖼️ Giao diện ứng dụng
-![Dictionary Interface](demo_images/dictionary_screenshot.png)
+![Dictionary Interface](https://drive.google.com/file/d/1ZNch6nVw41nxhpJJZnM6tPIHOs4NsOdO/view?usp=sharing)
 
 ### 🛠️ Công nghệ sử dụng
 ```python
